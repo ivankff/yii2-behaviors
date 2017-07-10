@@ -1,0 +1,34 @@
+{
+    "name": "ivankff/yii2-behaviors",
+    "description": "manager id, sortable, object date, timestamp datetime",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "behaviors"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "email": "ivan@sabint.ru"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ivankff/yii2-hybrid-authmanager/issues?state=open",
+        "source": "https://github.com/ivankff/yii2-hybrid-authmanager"
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "ivankff/yii2-helpers": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ivankff\\yii2-behaviors\\": "src/"
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
