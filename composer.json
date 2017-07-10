@@ -10,8 +10,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ivankff/yii2-hybrid-authmanager/issues?state=open",
-        "source": "https://github.com/ivankff/yii2-hybrid-authmanager"
+        "issues": "https://github.com/ivankff/yii2-behaviors/issues?state=open",
+        "source": "https://github.com/ivankff/yii2-behaviors"
     },
     "require": {
         "yiisoft/yii2": "~2.0",
