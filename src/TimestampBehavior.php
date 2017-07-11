@@ -1,8 +1,8 @@
 <?php
 
-namespace ivankff\yii2-behaviors;
+namespace ivankff\yii2Behaviors;
 
-use ivankff\yii2-helpers\DateTimeHelper;
+use ivankff\yii2Helpers\DateTimeHelper;
 
 class TimestampBehavior extends \yii\behaviors\TimestampBehavior {
 

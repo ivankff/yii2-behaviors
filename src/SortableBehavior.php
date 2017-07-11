@@ -1,6 +1,6 @@
 <?php
 
-namespace ivankff\yii2-behaviors;
+namespace ivankff\yii2Behaviors;
 
 use Yii;
 use yii\base\Behavior;

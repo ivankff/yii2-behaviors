@@ -1,9 +1,9 @@
 <?php
 
-namespace ivankff\yii2-behaviors;
+namespace ivankff\yii2Behaviors;
 
 use Yii;
-use ivankff\yii2-helpers\DateTimeHelper;
+use ivankff\yii2Helpers\DateTimeHelper;
 
 /**
  * Class GlobalAccessBehavior

@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ivankff\\yii2-behaviors\\": "src/"
+            "ivankff\\yii2Behaviors\\": "src/"
         }
     },
     "extra": {
